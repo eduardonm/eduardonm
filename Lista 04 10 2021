@@ -1,0 +1,439 @@
+#EXTM3U
+#EXTINF:-1 group-title="Culinária" ,Tastemade Brasil
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cultura" ,Canal Futura
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 group-title="Cultura" ,Sesc TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8
+#EXTINF:-1 group-title="Cultura" ,TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Desenhos" ,Nick Jr.
+http://185.236.229.21:9981/play/a04s
+#EXTINF:-1 group-title="Desenhos" ,Nickelodeon
+http://185.236.229.21:9981/play/a04p
+#EXTINF:-1 group-title="Documentários" ,Discovery Channel
+http://185.236.229.21:9981/play/a04l
+#EXTINF:-1 group-title="Documentários" ,Discovery Channel HD
+http://185.236.229.21:9981/play/a05a
+#EXTINF:-1 group-title="Documentários" ,Discovery Motortrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 group-title="Documentários" ,H2
+https://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_2.m3u8
+#EXTINF:-1 group-title="Documentários" ,History Channel
+https://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8
+#EXTINF:-1 group-title="Documentários" ,ID Investigation Discovery
+http://185.236.229.21:9981/play/a05s
+#EXTINF:-1 group-title="Documentários" ,National Geographic Wild
+http://185.236.229.21:9981/play/a06f
+#EXTINF:-1 group-title="Documentários" ,Smithsonian Channel Asia
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimento" ,Casa e Cozinha HD
+http://185.236.229.21:9981/play/a060
+#EXTINF:-1 group-title="Entretenimento" ,Dark MatterTV Brazil
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimento" ,E!
+https://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_2.m3u8
+#EXTINF:-1 group-title="Entretenimento" ,SIC Mulher
+http://185.236.229.21:9981/play/a037
+#EXTINF:-1 group-title="Esportes" ,Band Sports
+https://d1wwtskvr1r98k.cloudfront.net/22d48d4e768648da93b637a3bfc65b18/index_2.m3u8
+#EXTINF:-1 group-title="Esportes" ,Canal 11 HD
+http://185.236.229.21:9981/play/a051
+#EXTINF:-1 group-title="Esportes" ,Caça e Pesca
+http://185.236.229.21:9981/play/a04r
+#EXTINF:-1 group-title="Esportes" ,DAZN
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
+#EXTINF:-1 group-title="Esportes" ,Eleven Sports 1
+http://185.236.229.21:9981/play/a05v
+#EXTINF:-1 group-title="Esportes" ,Eleven Sports 4
+http://185.236.229.21:9981/play/a05x
+#EXTINF:-1 group-title="Esportes" ,Eleven Sports 5
+http://185.236.229.21:9981/play/a05y
+#EXTINF:-1 group-title="Esportes" ,ESPN
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8
+#EXTINF:-1 group-title="Esportes" ,Estadio TNT TV
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="Esportes" ,Eurosport 1 HD
+http://185.236.229.21:9981/play/a064
+#EXTINF:-1 group-title="Esportes" ,Fox Sports
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+#EXTINF:-1 group-title="Esportes" ,Fuel TV
+http://185.236.229.21:9981/play/a05c
+#EXTINF:-1 group-title="Esportes" ,FuelTV
+https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" ,In Trouble
+https://introuble-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" ,Motorvision
+http://185.236.229.21:9981/play/a04z
+#EXTINF:-1 group-title="Esportes" ,NBA TV HD
+http://185.236.229.21:9981/play/a06c
+#EXTINF:-1 group-title="Esportes" ,Premiere I
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
+#EXTINF:-1 group-title="Esportes" ,Premiere II
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_2000/index.m3u8
+#EXTINF:-1 group-title="Esportes" ,Premiere III
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+#EXTINF:-1 group-title="Esportes" ,PT Sport TV 4
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
+#EXTINF:-1 group-title="Esportes" ,RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Esportes" ,Sport TV
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+#EXTINF:-1 group-title="Esportes" ,Sport TV 5
+http://185.236.229.21:9981/play/a03n
+#EXTINF:-1 group-title="Esportes" ,SPORT TV+
+http://185.236.229.21:9981/play/a03c
+#EXTINF:-1 group-title="Esportes" ,Sporting TV
+http://185.236.229.21:9981/play/a03r
+#EXTINF:-1 group-title="Esportes" ,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Estilo de Vida" ,Latin Angels
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df41355939756000921d15b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Estilo de Vida" ,The Boat Show
+https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/e1719020-60bd-461e-989c-b61165ca4787/5.m3u8
+#EXTINF:-1 group-title="Fashion" ,Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Fashion" ,Fashion TV International
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Fashion" ,Fashion TV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fashion" ,Fashion TV PG13
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fashion" ,Fashion TV PG16
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fashion" ,Fashion TV UHD
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+#EXTINF:-1 group-title="Fashion" ,FashionTV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="Fashion" ,FTV Bikini
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 group-title="Fashion" ,Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,AE
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
+#EXTINF:-1 group-title="Filmes" ,AMC HD
+http://185.236.229.21:9981/play/a04x
+#EXTINF:-1 group-title="Filmes" ,Arte 1
+https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8
+#EXTINF:-1 group-title="Filmes" ,AXN Movies HD
+http://185.236.229.21:9981/play/a05l
+#EXTINF:-1 group-title="Filmes" ,AXN White HD
+http://185.236.229.21:9981/play/a05p
+#EXTINF:-1 group-title="Filmes" ,Channel 1
+https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,Cine Mundo
+http://bestott.net:80/56165534481D66A/r96fioyEld/68315
+#EXTINF:-1 group-title="Filmes" ,Comedy Central
+https://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m3u8
+#EXTINF:-1 group-title="Filmes" ,Disney Channel
+http://185.236.229.21:9981/play/a056
+#EXTINF:-1 group-title="Filmes" ,Disney Junior
+http://185.236.229.21:9981/play/a03q
+#EXTINF:-1 group-title="Filmes" ,FOX Crime HD
+http://185.236.229.21:9981/play/a066
+#EXTINF:-1 group-title="Filmes" ,FOX Life HD
+http://185.236.229.21:9981/play/a05r
+#EXTINF:-1 group-title="Filmes" ,FOX Movies
+http://185.236.229.21:9981/play/a039
+#EXTINF:-1 group-title="Filmes" ,Hallmark Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,Hollyhood HD
+http://185.236.229.21:9981/play/a06k
+#EXTINF:-1 group-title="Filmes" ,LFM TV
+https://edge2.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:-1 group-title="Filmes" ,Lifetime
+https://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_2.m3u8
+#EXTINF:-1 group-title="Filmes" ,MaxTV
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,Megapix
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,MyTime Movie Network - LEG BR
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,NOS Studios HD
+http://185.236.229.21:9981/play/a054
+#EXTINF:-1 group-title="Filmes" ,One TV
+https://edge6.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 group-title="Filmes" ,Paramount Network
+https://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_2.m3u8
+#EXTINF:-1 group-title="Filmes" ,Pluto TV Cine Clássicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Filmes" ,Pluto TV Cine Comédia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Filmes" ,Pluto TV Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Filmes" ,Pluto TV Cine Família
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Filmes" ,Pluto TV Cine Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Filmes" ,Pluto TV Cine Sucessos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Filmes" ,Pluto TV Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Filmes" ,Pluto TV Filmes Ação
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Filmes" ,Pluto TV Filmes Nacionais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Filmes" ,Pluto TV Filmes Suspense
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Filmes" ,Pluto TV Star Trek
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Filmes" ,PPZ TV
+https://5c483b9d1019c.streamlock.net/8058/8058/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,RBTV Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w640912591.m3u8
+#EXTINF:-1 group-title="Filmes" ,Rouge TV
+https://edge9.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,Runtime BR
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Filmes" ,SyFy
+http://185.236.229.21:9981/play/a04j
+#EXTINF:-1 group-title="Filmes" ,Tela Viva TV
+https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,TLC
+http://185.236.229.21:9981/play/a038
+#EXTINF:-1 group-title="Filmes" ,TNT
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+#EXTINF:-1 group-title="Filmes" ,TV Digital Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,TV Jornal do Nordeste
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,TV Mix
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w629413118.m3u8
+#EXTINF:-1 group-title="Filmes" ,Tv Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,TV Osório
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,TV Rio Preto
+http://201.48.245.24:1935/live/livestream/chunklist_w223776730.m3u8
+#EXTINF:-1 group-title="Filmes" ,TV Sul
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" ,TVCine ACTION HD
+http://185.236.229.21:9981/play/a04n
+#EXTINF:-1 group-title="Filmes" ,TVCine EDITION HD
+http://185.236.229.21:9981/play/a061
+#EXTINF:-1 group-title="Filmes" ,TVCine EMOTION HD
+http://185.236.229.21:9981/play/a05z
+#EXTINF:-1 group-title="Filmes" ,TVCine TOP HD
+http://185.236.229.21:9981/play/a04w
+#EXTINF:-1 group-title="Filmes" ,Warner Channel
+https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
+#EXTINF:-1 group-title="Música" ,Baeble Music
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Música" ,Canal 38
+https://rtmp.info/canal38/envivo/chunklist_w41404787.m3u8
+#EXTINF:-1 group-title="Música" ,Catedral do Rock TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+#EXTINF:0 group-title="Música" ,CMC California Music Channel
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+#EXTINF:-1 group-title="Música" ,Euro Indie Music
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:0 group-title="Música" ,HqM Rock
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:-1 group-title="Música" ,Local Now Music
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 group-title="Música" ,Loop 80s
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/master.m3u8
+#EXTINF:-1 group-title="Música" ,Loop 90s
+https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/master.m3u8
+#EXTINF:-1 group-title="Música" ,Loop Far Out 70s
+https://18a6ff4fa5424e6797030b139ca98e6c.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_plex/master.m3u8
+#EXTINF:-1 group-title="Música" ,Loop Yacht Rock
+https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_plex/master.m3u8
+#EXTINF:-1 group-title="Música" ,MCN6 Music Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1 group-title="Música" ,Metal TV
+https://v1.catcast.tv/content/33816/index.m3u8
+#EXTINF:-1 group-title="Música" ,Mezzo
+http://185.236.229.21:9981/play/a03e
+#EXTINF:-1 group-title="Música" ,Muzzik Rock&Roll Serbia
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="Música" ,NAVAHANG TV
+http://51.210.227.130/hls/stream.m3u8
+#EXTINF:-1 group-title="Música" ,Ocko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Música" ,Ocko Express
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Música" ,Ocko STAR
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0 group-title="Música" ,Pulse Rock
+https://dotfvxkfj90ca.cloudfront.net/programming/pulserock/playlist.m3u8?token=b2c47575-4375-4fd9-9966-cfd4a9198039&streamSessionId=fe685a5b-d265-4946-a43f-e82de0852c36&code=TELEATLANTIC&expires=1615593600000&playUrl=true&ctrl=91f621861f4a0fb5731172500d4057b2ad6c96faec76849a84d1daca3864de9d1df7b00481c59221167c6f12568122a804d617ddffe46919a61b8028c9dbefb7
+#EXTINF:-1 group-title="Música" ,Puro Rock
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/25.m3u8
+#EXTINF:-1 group-title="Música" ,Qello By Stingrey
+https://dai2.xumo.com/xumocdn/1632834309622/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/1920x1080_5161200/chunklist.m3u8
+#EXTINF:-1 group-title="Música" ,Qmusic
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 group-title="Música" ,Radio Monte Carlo TV
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:-1 group-title="Música" ,Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Música" ,Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
+#EXTINF:-1 group-title="Música" ,Rock TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Música" ,Rockland TV
+http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
+#EXTINF:-1 group-title="Música" ,RU.TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 group-title="Música" ,Ruidos TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
+#EXTINF:-1 group-title="Música" ,Trace Toca
+http://185.236.229.21:9981/play/a04o
+#EXTINF:-1 group-title="Música" ,Trace Urban
+http://185.236.229.21:9981/play/a06g
+#EXTINF:-1 group-title="Música" ,VEVO 2K
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Música" ,VEVO 70s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Música" ,VEVO 80s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Música" ,VEVO 90s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Música" ,VEVO Latino
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Música" ,VEVO Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Música" ,VH1
+http://185.236.229.21:9981/play/a03d
+#EXTINF:-1 group-title="Música" ,VH1 Italia
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 group-title="Música" ,Virgin TV
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+#EXTINF:-1 group-title="Música" ,XiTE 80s Flashback
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8
+#EXTINF:-1 group-title="Música" ,XITE 90s Throwback
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8
+#EXTINF:-1 group-title="Música" ,XITE Music
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
+#EXTINF:-1 group-title="Música" ,XITE Rock On
+https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
+#EXTINF:-1 group-title="Música" ,XTV Music
+https://tls-cl.cdnz.cl/xtv/live/playlist.m3u8
+#EXTINF:-1 group-title="Música" ,Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Natureza" ,Animals Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 group-title="Natureza" ,Aurora Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 group-title="Natureza" ,Beaches Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 group-title="Natureza" ,Better Nature TV
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1 group-title="Natureza" ,Fish Tank
+https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
+#EXTINF:-1 group-title="Natureza" ,Forests Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 group-title="Natureza" ,Island Scape
+https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
+#EXTINF:-1 group-title="Natureza" ,Lakes Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 group-title="Natureza" ,Mountais Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1 group-title="Natureza" ,Relaxing Rain
+https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
+#EXTINF:-1 group-title="Natureza" ,Rivers Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 group-title="Natureza" ,Sunset Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 group-title="Natureza" ,Tranquil T'storms
+https://a.jsrdn.com/broadcast/18b42f9aef/+0000/c.m3u8
+#EXTINF:-1 group-title="Natureza" ,Tropics Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 group-title="Natureza" ,Waterfalls Live
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+#EXTINF:-1 group-title="Natureza" ,WeatherSpy
+https://4bcfcc1294004089a615518bf70294e5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_WeatherSpy/cc2e3711-83b8-4e24-ac2d-59b37f90716a/5.m3u8
+#EXTINF:-1 group-title="Natureza" ,Xplore
+https://xplore-plex.amagi.tv/amRdirect/1633358514717/hls/amagi_hls_data_plexAAAAA-litton-xplore-plex/CDN/1920x1080_5491200/index.m3u8
+#EXTINF:-1 group-title="Notícias" ,Band News
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w221408463.m3u8
+#EXTINF:-1 group-title="Notícias" ,CNN
+http://185.236.229.21:9981/play/a03i
+#EXTINF:-1 group-title="Notícias" ,Euronews
+http://185.236.229.21:9981/play/a03l
+#EXTINF:-1 group-title="Notícias" ,France 24 (I)
+http://185.236.229.21:9981/play/a03m
+#EXTINF:-1 group-title="Notícias" ,Globo Now
+http://185.236.229.21:9981/play/a04v
+#EXTINF:-1 group-title="Notícias" ,NHK World Japan
+http://185.236.229.21:9981/play/a05h
+#EXTINF:-1 group-title="Notícias" ,Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Notícias" ,SKY News
+http://185.236.229.21:9981/play/a048
+#EXTINF:-1 group-title="Notícias" ,TVE 24h
+http://185.236.229.21:9981/play/a03h
+#EXTINF:-1 group-title="Reality" ,A Fazenda 13
+https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_2000/index.m3u8
+#EXTINF:-1 group-title="Reality" ,MTV
+https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_2.m3u8
+#EXTINF:-1 group-title="Reality" ,TVI Reality
+http://185.236.229.21:9981/play/a036
+#EXTINF:-1 group-title="Rádio" ,Best of Rock FM - Classic Rock
+https://radio21.streamabc.net/radio21-classicrock-mp3-256-9273095?sABC=5s56q449%230%23n2sr44p160644p8p6107q34qq5p74sr4%23orfgbsebpx.sz&sabcsid=d6369f0d91e1&0.07334671747081489=&amsparams=playerid:bestofrock.fm;skey:1599525961
+#EXTINF:-1 group-title="Rádio" ,Best of Rock FM - Hard Rock
+https://radio21.streamabc.net/radio21-hardrock-mp3-256-1630702?sABC=5s56q39o%230%23n2sr44p160644p8p6107q34qq5p74sr4%23orfgbsebpx.sz&sabcsid=d6369f0d91e1&0.04898222131612695=&amsparams=playerid:bestofrock.fm;skey:1599525787
+#EXTINF:-1 group-title="Rádio" ,Best of Rock FM - Konzertkracher
+https://radio21.streamabc.net/radio21-konzertkracher-mp3-256-4745605?sABC=5s56q52n%230%23n2sr44p160644p8p6107q34qq5p74sr4%23orfgbsebpx.sz&sabcsid=d6369f0d91e1&0.1861646721452097=&amsparams=playerid:bestofrock.fm;skey:1599526186
+#EXTINF:-1 group-title="Rádio" ,Best of Rock FM - X-Mas Rock Nonstop
+https://radio21.streamabc.net/radio21-xmasrock-mp3-256-4341316?sABC=5s56q4q6%230%23n2sr44p160644p8p6107q34qq5p74sr4%23orfgbsebpx.sz&sabcsid=d6369f0d91e1&0.21913611477223915=&amsparams=playerid:bestofrock.fm;skey:1599526102
+#EXTINF:-1 group-title="Rádio" ,Futuro FM 88.9 Chile
+https://20833.live.streamtheworld.com/FUTUROAAC.aac?csegid=12000&gdpr=1&gdpr_consent=false&dist=futuro_cl-web-live_streaming_play&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=5ec05dfe-883e-42a5-d79d-68a55610835b
+#EXTINF:-1 group-title="Rádio" ,LFM La Radio Version 80's
+https://webradio0004.ice.infomaniak.ch/webradio0004-128.mp3
+#EXTINF:-1 group-title="Rádio" ,LFM La Radio Version 90's
+https://webradio0006.ice.infomaniak.ch/webradio0006-128.mp3
+#EXTINF:-1 group-title="Rádio" ,LFM La Radio Version Love
+https://webradio0010.ice.infomaniak.ch/webradio0010-128.mp3
+#EXTINF:-1 group-title="Rádio" ,Monsters O Rock
+http://ice55.securenetsystems.net/DASH14
+#EXTINF:-1 group-title="Rádio" ,Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF:-1 group-title="Rádio" ,Virgin Rock
+https://icecast.argovia.ch/vrock?aw_0_req.userConsentV2=CPNjmFTPNjmFTAfEIBPTBvCgAP_AAH_AAAQ4GMoB8CpESCFAAGppIvAAAAAUQBAMASAAAACAAgAAAAAAAAQAEAAQAAQAAAAAABAAAAAAAAAACAEAAAAAAAAAAAEAAAAAAAAAAAJAAAAQAAAAAAAIAAAAAAAAAAAAAAAAgAAACAIGMoB8CpESCFAAGppIvAAAAAUQBAMASAAAACAAgAAAAAAAAQAEAAQAAQAAAAAABAAAAAAAAAACAEAAAAAAAAAAAEAAAAAAAAAAAJAAAAQAAAAAAAIAAAAAAAAAAAAAAAAgAAACAIBQMACAAsKABAAWHAAgALEgAQAFiwAIACxoAEABY8ACAAsiABAAWTAAgALKgAQAFg&aw_0_1st.interests=%5B%5D
+#EXTINF:-1 group-title="Variedades" ,Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" ,Kuriakos TV HD
+http://185.236.229.21:9981/play/a03t
+#EXTINF:-1 group-title="Variedades" ,RBATV Band PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w309311756.m3u8
+#EXTINF:-1 group-title="Variedades" ,Record TV
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Variedades" ,SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" ,Tv Band
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" ,TV CARIOCA.NET
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" ,TV Diário
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQ5n_LwcksPMr1JYYVtOHek)/dm/3/x7txn7q/s/live-2.m3u8
+#EXTINF:-1 group-title="Variedades" ,TV Gazeta
+https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1 group-title="Variedades" ,TV Globo
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+#EXTINF:-1 group-title="Variedades" ,TV Zimbo
+https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
+#EXTINF:-1 group-title="Variedades" ,TVE Internacional
+http://185.236.229.21:9981/play/a03f
+#EXTINF:-1 group-title="Variedades" ,TVM3
+https://edge1.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
+#EXTINF:-1 group-title="Variedades" ,ZAP Viva HD
+http://185.236.229.21:9981/play/a052
+#EXTINF:-1 group-title="Viagens" ,Go Traveler
+https://dai2.xumo.com/xumocdn/1633357841539/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="Viagens" ,Journey
+https://vcnplex.teleosmedia.com/linear/ovation/journy/062c2cc5-cd98-4c7f-a931-53b814791085/seglist_1080p.m3u8
+#EXTINF:-1 group-title="Viagens" ,Lively Place
+https://d13c935311364708bf51b0eb4bbdb04f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LivelyPlace/1918056e-2dc5-4bde-b4ea-d7cfb42d7bc4/5.m3u8
+#EXTINF:-1 group-title="Viagens" ,Sochi TV Live
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 group-title="Viagens" ,Tele Ticino
+https://livestream.gruppocdt.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:-1 group-title="Viagens" ,Travel Channel HD
+http://185.236.229.21:9981/play/a05o
+#EXTINF:-1 group-title="Viagens" ,Travel Guide TV Live
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:0 ,Hot
+http://185.236.229.21:9981/play/a03p
+#EXTINF:0 ,O-la-la
+http://194.9.27.164:8103/play/O_la_la/index.m3u8
