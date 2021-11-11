@@ -65,3 +65,5 @@ https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3
 https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
 #EXTINF:0 group-title="News" tvg-logo="https://image.xumo.com/v1/channels/channel/9999220/800x800.png?type=smartCast_channelTile" tvg-logo-small="https://image.xumo.com/v1/channels/channel/9999220/800x800.png?type=smartCast_channelTile" ,Cheddar Live
 https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
+#EXTINF:0 group-title="News" tvg-logo="https://image.xumo.com/v1/channels/channel/9999220/800x800.png?type=smartCast_channelTile" tvg-logo-small="https://image.xumo.com/v1/channels/channel/9999220/800x800.png?type=smartCast_channelTile" ,Cheddar Live
+https://dv-h.phncdn.com/hls/videos/202010/04/357729442/,1080P_4000K,720P_4000K,480P_2000K,240P_400K,_357729442.mp4.urlset/index-f2-v1-a1.m3u8?ttl=1603604485&l=0&hash=6555b2371b5a8ecee7b143cd7a6ee074
